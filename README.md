@@ -1,5 +1,5 @@
 # Produce files for Modified MakeItTalk
 
 * Landmark detection for cartoons and real people.
-* Landmarking editing and saving tool.
+* Landmarks editing interface.
 * Delaunay Triangulation Tool.
