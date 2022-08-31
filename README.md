@@ -1,4 +1,5 @@
-# Detector and Landmarking Tool for Character Animator
+# Produce files for Modified MakeItTalk
 
-
-# LandmarkingTool
+* Landmark detection for cartoons and real people.
+* Landmarking editing and saving tool.
+* Delaunay Triangulation Tool.
