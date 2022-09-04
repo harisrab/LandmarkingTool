@@ -1,4 +1,4 @@
-# Produce files for Modified MakeItTalk
+# Produce Source Files for Modified MakeItTalk
 
 - [X] Extract landmark editing tool + delaunay triangulation
 - [ ] Produce the exact same structure of files required in BAYC-BoredApes
