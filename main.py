@@ -12,9 +12,6 @@ args = parser.parse_args()
 
 bgc = "#000000"
 
-if args.bg_color:    
-    bgc = args.bg_color
-
 print("BG Color: ", args.bg_color)
 print("Path: ", args.imgpath)
 
